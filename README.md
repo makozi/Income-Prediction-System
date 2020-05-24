@@ -23,6 +23,10 @@ The data can be found [here](https://github.com/makozi/Income-Prediction-System/
 ![income-app1](https://user-images.githubusercontent.com/18138100/82767607-bcafc780-9e20-11ea-9279-f305e1c0aff7.PNG)
 
 
+## Web App
+
+Web App can be found [here](http://income-prediction-flask.herokuapp.com/)
+
 ## License
 
 This project is licensed under the MIT License
